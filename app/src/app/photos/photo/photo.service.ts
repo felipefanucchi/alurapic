@@ -13,7 +13,6 @@ export class PhotoService {
     }
 
     listFromUser(userName: string = 'flavio'): Observable<Photo[]> {
-        return this.http
-            .get<Photo[]>(`${API}${userName}/photos`);
+        return this.http.get<Photo[]>(`${API}${userName}/photos`);
     }
 }
