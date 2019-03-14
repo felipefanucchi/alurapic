@@ -1,27 +1,21 @@
-# Alurapic
+# alurapic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Hi, this is a study method for the angular framework, i'm following all the concepts, since the fundamentals, authentication, routes, modules
+and every single feature that angular provide us (not all, but almost). I'm following a course from Alura, that consists in 4 steps, each of them
+is a course, with 10/12 hours, more n less.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Here we use the interface to autocomplete and gain productivity in our process
 
-## Code scaffolding
+Using authentication based in our back-end that follows the JWT pattern
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Formgroups for the validations of the forms
 
-## Build
+Using router-outlets to load each component based on the url
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Working with RxJS provide us, like, tap, debounceTime, Subject, Observables etc...
 
-## Running unit tests
+Implementing the lazyloading for a better performance
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This is a bit that i remembered, so if you trying to hire me, i guess i'll do it.
